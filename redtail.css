@@ -11,13 +11,13 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-ul{
+ul {
     padding-top: 40px;
 }
 
 .text-block {
   position: absolute;
-  top: 100%;
+  margin-top: 20%;
   left: 50%;
   background-color: black;
   color: white;
@@ -26,6 +26,43 @@ ul{
   text-align: center;
   opacity: 0.95;
 }
+
+.text-block2 {
+  position: absolute;
+  margin-top: 35%;
+  left: 50%;
+  background-color: black;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  opacity: 0.95;
+}
+
+.text-block3 {
+  position: absolute;
+  margin-top: 50%;
+  left: 50%;
+  background-color: black;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  opacity: 0.95;
+}
+
+.text-block4 {
+  position: absolute;
+  margin-top: 60%;
+  left: 50%;
+  background-color: black;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  opacity: 0.95;
+}
+
 
 .topnav {
     background-color: #353535;
